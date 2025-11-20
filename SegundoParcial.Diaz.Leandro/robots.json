@@ -1,0 +1,23 @@
+[
+  {
+    "cantidadTareas": 8,
+    "tipo": "DOMESTICO",
+    "nombre": "RLimpiar",
+    "nivelEnergia": 80,
+    "nroSerie": 1
+  },
+  {
+    "cantidadTareas": 2,
+    "tipo": "DOMESTICO",
+    "nombre": "RCocinar",
+    "nivelEnergia": 20,
+    "nroSerie": 2
+  },
+  {
+    "capacidadCarga": 50.0,
+    "tipo": "INDUSTRIAL",
+    "nombre": "ICargar",
+    "nivelEnergia": 40,
+    "nroSerie": 3
+  }
+]
